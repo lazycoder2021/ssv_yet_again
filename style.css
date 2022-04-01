@@ -67,7 +67,8 @@ a {
     text-align: center;
     animation: content 8.4s forwards;
     opacity: 0;
-    height:200px;
+    height:250px;
+    width:400px;
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -144,7 +145,7 @@ a {
     background-color: rgba(30, 144, 255, 0.8);
     color: black;
     font-family: 'Roboto Slab', sans-serif;
-    margin-top:360px;
+    margin-top:-22px;
 }
 
     .about h2 {
@@ -814,7 +815,7 @@ video {
         text-transform: capitalize;
         padding: 40px;
         position: absolute;
-        top: 470px;
+        top: 200px;
         left: 40px;
         text-align: center;
         animation: content 8.4s forwards;
@@ -869,6 +870,7 @@ video {
         width: 480px;
         margin-top:0px;
         height: 1200px;
+        margin-top:-300px;
     }
 
         .about .intro {
