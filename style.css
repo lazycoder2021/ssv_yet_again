@@ -909,6 +909,8 @@ video {
         height: 1250px; /* for testing purpose, should be removed!!!! */
         background-size: 100% 100%;
         object-fit: contain;
+        margin-left:auto; 
+        margin-right:auto;
     }
 
     .all_services {

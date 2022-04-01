@@ -2,7 +2,7 @@ responsivness issues
 
 ===========================
 
-about section related excess/no margins
+about section related excess/no margins [done]
 
 service cards not centering properly 
 
@@ -11,3 +11,5 @@ form not centering properly
 faqs has a lot of bottom margin space 
 
 footer remains hidden
+
+finally center the hamburger menu contents 
