@@ -1,0 +1,13 @@
+responsivness issues
+
+===========================
+
+about section related excess/no margins
+
+service cards not centering properly 
+
+form not centering properly 
+
+faqs has a lot of bottom margin space 
+
+footer remains hidden
