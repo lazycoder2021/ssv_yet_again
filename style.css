@@ -816,8 +816,8 @@ video {
         text-transform: capitalize;
         padding: 40px;
         position: absolute;
-        top: 220px;
-        left: -10px;
+        top: 230px;
+        left: -5px;
         text-align: center;
         animation: content 8.4s forwards;
         opacity: 0;
