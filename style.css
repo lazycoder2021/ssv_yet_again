@@ -680,9 +680,7 @@ video {
 
 @media only screen and (max-width:480px) {
 
-    .wrapper{
-        overflow:hidden;
-    }
+    
 
 
     .hide{
