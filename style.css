@@ -144,6 +144,7 @@ a {
     background-color: rgba(30, 144, 255, 0.8);
     color: black;
     font-family: 'Roboto Slab', sans-serif;
+    margin-top:360px;
 }
 
     .about h2 {
@@ -866,7 +867,7 @@ video {
 
     .about {
         width: 480px;
-        //margin-bottom: 800px; /* for testing purpose, should be removed!!!! */
+        margin-top:0px;
         height: 1200px;
     }
 
