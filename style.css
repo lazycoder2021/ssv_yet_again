@@ -817,7 +817,7 @@ video {
         padding: 40px;
         position: absolute;
         top: 200px;
-        left: 0px;
+        left: -20px;
         text-align: center;
         animation: content 8.4s forwards;
         opacity: 0;
