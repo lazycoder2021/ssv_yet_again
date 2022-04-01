@@ -8,7 +8,7 @@ service cards not centering properly
 
 form not centering properly 
 
-faqs has a lot of bottom margin space 
+faqs has a lot of bottom margin space [done]
 
 footer remains hidden [done]
 
