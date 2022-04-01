@@ -817,16 +817,17 @@ video {
         padding: 40px;
         position: absolute;
         top: 200px;
-        left: 10px;
+        left: 40px;
         text-align: center;
         animation: content 8.4s forwards;
         opacity: 0;
         height: 200px;
+        width:400px;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin: 0px auto;
+        //margin: 0px auto;
     }
 
     .textContent h2{
