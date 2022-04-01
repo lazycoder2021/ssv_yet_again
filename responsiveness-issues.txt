@@ -10,6 +10,6 @@ form not centering properly
 
 faqs has a lot of bottom margin space 
 
-footer remains hidden
+footer remains hidden [done]
 
-finally center the hamburger menu contents 
+finally center the hamburger menu contents [done]
