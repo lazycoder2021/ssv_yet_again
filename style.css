@@ -908,9 +908,8 @@ video {
         //margin-bottom: 500px;
         height: 1250px; /* for testing purpose, should be removed!!!! */
         background-size: 100% 100%;
-        object-fit: contain;
-        margin-left:auto; 
-        margin-right:auto;
+        
+       
     }
 
     .all_services {
@@ -977,7 +976,7 @@ video {
     }
 
     .footer {
-        margin-top: 360px;
+        margin-top: 380px;
         width:480px;
     }
 }
