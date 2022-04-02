@@ -33,6 +33,8 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Roboto Slab', sans-serif;
+    
+    
 }
 
 html {
@@ -126,9 +128,20 @@ a {
 
 .pane {
     width: 100%;
-    border: 1px solid black;
+    overflow:hidden;
     height: 100vh;
     z-index: -1;
+    position:relative;
+    
+}
+
+video {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    width: auto;
+    height: auto;
+    position: absolute;
 }
 
 .pane1 {
@@ -146,7 +159,7 @@ a {
     background-color: rgba(30, 144, 255, 0.8);
     color: black;
     font-family: 'Roboto Slab', sans-serif;
-    margin-top:-22px;
+    margin-top:-82px;
 }
 
     .about h2 {
@@ -296,11 +309,7 @@ a {
     animation: change 8.4s forwards;
 }
 
-video {
-    min-width: 100%;
-    min-height: 100%;
-    //background-position:center;
-}
+
 
 .nav {
     position: absolute;
@@ -677,6 +686,11 @@ video {
     width: 70%;
     margin-left: 10px;
 }
+
+.wrapper{
+    z-index:-20;
+}
+
 
 
 
