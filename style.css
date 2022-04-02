@@ -701,6 +701,10 @@ video {
         overflow:hidden;
     }
 
+    .faq{
+        width:90%;
+    }
+
 
     .hide{
         display:none;
@@ -734,7 +738,7 @@ video {
 
     .pane {
         width: 480px;
-        border: 1px solid black;
+        //border: 1px solid black;
         height: 100vh;
         overflow: hidden;
         z-index: -1;
@@ -830,7 +834,7 @@ video {
         text-transform: capitalize;
         padding: 40px;
         position: absolute;
-        top: 230px;
+        top: 200px;
         left: -5px;
         text-align: center;
         animation: content 8.4s forwards;
@@ -938,7 +942,7 @@ video {
     }
 
     .single_service {
-        width: 85%;
+        width: 90%;
         margin: 10px auto;
     }
 
@@ -956,7 +960,7 @@ video {
             }
 
         .container .forum {
-            width: 80%;
+            width: 90%;
         }
 
         .container .form-control .frieght_options {
